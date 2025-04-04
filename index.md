@@ -3,7 +3,7 @@
 Hi everyone! My name is Emily Cai. This is me:
 
 <picture>
-  <img src="IMG_5477.jpg" alt="picture of me" width="200">
+  <img src="IMG_5477.jpg" alt="picture of me" width="300">
 </picture>
 
 I am a third year, first year transfer computer science major in Sixth College. 
