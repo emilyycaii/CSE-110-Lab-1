@@ -2,7 +2,9 @@
 
 Hi everyone! My name is Emily Cai. This is me:
 
-![picture of me](IMG_5477.jpg)
+<picture>
+  <img src="IMG_5477.jpg" alt="picture of me" width="200">
+</picture>
 
 I am a third year, first year transfer computer science major in Sixth College. 
 I born in Taishan, Guangdong, China, but I have lived in San Francisco all my life.
