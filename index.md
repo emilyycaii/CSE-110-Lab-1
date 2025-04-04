@@ -1,13 +1,10 @@
-
-
 Hi everyone! My name is Emily Cai. This is me:
 
 <picture>
   <img src="IMG_5477.jpg" alt="picture of me" width="300">
 </picture>
 
-I am a third year, first year transfer computer science major in Sixth College. 
-I born in Taishan, Guangdong, China, but I have lived in San Francisco all my life.
+I am a third year, first year transfer computer science major in Sixth College. I am currently 21 years old. I am born in Taishan, Guangdong, China, but I have lived in San Francisco all my life.
 I will introduce myself more in the following page:
 
 **Navigation Bar**
@@ -16,6 +13,10 @@ I will introduce myself more in the following page:
 - [Fun Facts](#fun-facts) no
 - no
 
+## Programming
+
+** Beginning **
+My interest in programming grew when 
 ## Section
 My favorite songs:
 1. Bluest Flame by Selena Gomez
