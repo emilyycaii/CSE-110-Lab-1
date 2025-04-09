@@ -86,7 +86,7 @@ I have been to Guangdong in China, Utah, New York, and California.
 
 On my free time, I like playing Roblox, listening to music, watching movies/shows, and trying out new food.
 
-That's pretty much my all about me. Thank you for reading! :)
+That's pretty much my all about me. Thank you for reading!
 
 
 [Go back to README page](README.md)
