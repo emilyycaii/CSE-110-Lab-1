@@ -4,6 +4,8 @@ Hi everyone! My name is Emily Cai. This is me:
   <img src="IMG_5477.jpg" alt="picture of me" width="300">
 </picture>
 
+**Short Introduction**
+
 >I am a third year, first year transfer computer science major in Sixth College at UC San Diego. I am currently 21 years old. I am born in Taishan, Guangdong, China, but I have lived in San Francisco all my life.
 
 I will introduce myself more in the following page:
